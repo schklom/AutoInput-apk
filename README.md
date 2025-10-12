@@ -4,3 +4,5 @@ The id of the Google Drive file is kept private because I don't know if it is pu
 This is mainly for my personal use.
 
 The apk is updated through the GitHub Action at https://github.com/schklom/Mirror-workflows/blob/main/.github/workflows/Download%2BRelease%20AutoInput.yml.
+
+NOTE: The latest apk is available through the Release. I am no longer updating the file directly to avoid hitting GitHub repo size limit.
